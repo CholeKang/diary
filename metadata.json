@@ -1,0 +1,7 @@
+{
+  "name": "Diary",
+  "description": "The Library Thought Archive. Collect and organize thoughts, voice, and written memories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
